@@ -1,5 +1,7 @@
 # UTSOAA Website
 
+Old website is obsolete. Visit us at atxscioly.org!
+
 ## Run Locally
 
 Run the following commands:
